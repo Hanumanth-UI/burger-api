@@ -1,0 +1,40 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Tribute Burger",
+            "restaurant": "Honest Burgers",
+            "web": "www.honestburgers.co.uk",
+            "description":"A mouth-watering honest beef burger",
+            "ingredients": ["beaf", "american cheese", "burger sauce", "french mustard", "pickes", "onion", "lettuce"],
+            "addresses": [
+                {
+                    "addresses":"0",
+                    "number":"75",
+                    "line1": "veen street",
+                    "line2": "clapham",
+                    "postcode":"sw4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name":"Pulled Mooshie",
+            "restaurant": "Mooshies",
+            "web":"www.veganburger.org",
+            "description":"spicy vegan burger with jackfruit",
+            "ingredients":["jackfruit","coleslaw","gluten free bun"],
+            "addresses":[
+                {
+                    "addresses":"0",
+                    "number":"104",
+                    "line1": "Brick Lane",
+                    "line2": "shoreditch",
+                    "postcode":"E! 6RL",
+                    "country":"United Kingdom"
+                }
+            ]
+        }
+    ]
+}
